@@ -1,4 +1,4 @@
-# Reccommendation_Systems
+# Recommendation_Systems
 
 Problem statement.
 
